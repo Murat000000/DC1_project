@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS folder attributes
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+*.env
+*.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+
+# Results and outputs
+*.out
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# Environment and config
+.env
+.env.*
+
+# Other
+*.swp
+*.swo
