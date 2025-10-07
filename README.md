@@ -1,4 +1,4 @@
-# Data Science 1 Project
+# Data Science 1 Project: Predicting Popularity of a Journal
 
 ## Project structure
 
